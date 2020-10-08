@@ -1,7 +1,9 @@
 # Default ignored files
 /workspace.xml
 
-src/
+src
+
+.idea
 
 NeuroStartUp
 
